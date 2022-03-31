@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab0607_Zoo.Animal">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAQAAAAEAAAIAAACAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Bird">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAACAAAAAAAAAAAAACAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Classes\Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Reptile">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAEAAAARAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Reptile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Mammal">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Mammal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Insect">
+    <Position X="14.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Insect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Ant">
+    <Position X="13.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Ant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Bee">
+    <Position X="15.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Bee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Cat">
+    <Position X="8" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAA=</HashCode>
+      <FileName>Classes\Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Crocodile">
+    <Position X="4.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Crocodile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Dog">
+    <Position X="9.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAA=</HashCode>
+      <FileName>Classes\Dog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Eagle">
+    <Position X="2.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAABAABAAAAAAA=</HashCode>
+      <FileName>Classes\Eagle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Elephant">
+    <Position X="11.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAIQAABAEAAAAAAAA=</HashCode>
+      <FileName>Classes\Elephant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Falcon">
+    <Position X="0.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAABAABAAAAAAA=</HashCode>
+      <FileName>Classes\Falcon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab0607_Zoo.Snake">
+    <Position X="6.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

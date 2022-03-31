@@ -6,7 +6,18 @@ namespace Lab0607_Zoo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Bird falcon = new Falcon();
+            falcon.Sound();
+            falcon.Fly();
+
+            Mammal elephant = new Elephant();
+            elephant.Walk();
+
+            Reptile snake = new Snake();
+            snake.SkinColor = "grey";
+            Console.WriteLine("Snake Color: " + snake.SkinColor);
+            snake.Crawling();
+
         }
     }
 }
