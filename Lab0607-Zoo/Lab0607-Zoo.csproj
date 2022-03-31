@@ -6,4 +6,10 @@
     <RootNamespace>Lab0607_Zoo</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="NewFolder\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="NewFolder\**" />
+  </ItemGroup>
+
 </Project>
