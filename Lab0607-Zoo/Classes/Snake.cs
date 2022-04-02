@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lab0607_Zoo
 {
-    internal class Snake : Reptile
+    public class Snake : Reptile
     {
-        public override void Crawling()
+        public override string Crawling()
         {
-            Console.WriteLine("Snake is Crawling...");
+            return "Snake is Crawling...";
         }
         public override void Eat()
         {

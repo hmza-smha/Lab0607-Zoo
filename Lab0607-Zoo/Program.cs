@@ -17,7 +17,6 @@ namespace Lab0607_Zoo
             snake.SkinColor = "grey";
             Console.WriteLine("Snake Color: " + snake.SkinColor);
             snake.Crawling();
-
         }
     }
 }

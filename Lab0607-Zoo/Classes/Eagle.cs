@@ -8,9 +8,9 @@ namespace Lab0607_Zoo
 {
     public class Eagle : Bird
     {
-        public override void Fly()
+        public override string Fly()
         {
-            Console.WriteLine("Eagle is Flying...");
+            return "Eagle is Flying...";
         }
 
         public override void Eat()

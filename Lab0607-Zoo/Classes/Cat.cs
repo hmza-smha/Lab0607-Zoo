@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lab0607_Zoo
 {
-    public class Cat : Mammal
+    public class Cat : Mammal, IPredator
     {
         public string Type { get; set; }
+        public string Claws { get; set; }
+        public string Teeth { get; set; }
 
         public override void Eat()
         {
