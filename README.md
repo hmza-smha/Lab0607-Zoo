@@ -11,4 +11,4 @@ This program is used to manage a Zoo classes, with
 - (digital) drawing of zoo diagram clearly
 
 ## Class Diagram
-![image](./Lab0607-Zoo/images/ZooClassDiagram.png)
+![image](./Lab0607-Zoo/images/classdiagram.png)
