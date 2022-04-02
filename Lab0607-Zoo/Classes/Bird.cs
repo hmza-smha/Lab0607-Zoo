@@ -31,9 +31,9 @@ namespace Lab0607_Zoo
             }
         }
         
-        public virtual void Fly()
+        public virtual string Fly()
         {
-            Console.WriteLine("Bird is Flying...");
+            return "Bird is Flying...";
         }
 
     }

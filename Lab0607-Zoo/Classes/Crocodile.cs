@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace Lab0607_Zoo
 {
-    internal class Crocodile : Reptile
+    public class Crocodile : Reptile, IPredator
     {
-        public override void Crawling()
+        public string Claws { get; set; }
+        public string Teeth { get; set; }
+
+        public override string Crawling()
         {
-            Console.WriteLine("Crocodile is Crawling...");
+            return "Crocodile is Crawling...";
         }
         public override void Eat()
         {

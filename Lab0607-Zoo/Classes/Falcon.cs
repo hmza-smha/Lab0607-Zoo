@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Lab0607_Zoo
 {
-    internal class Falcon : Bird
+    public class Falcon : Bird
     {
-        public override void Fly()
+        public override string Fly()
         {
-            Console.WriteLine("Falcon is Flying...");
+            return "Falcon is Flying...";
         }
 
         public override void Eat()

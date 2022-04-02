@@ -31,9 +31,9 @@ namespace Lab0607_Zoo
             }
         }
 
-        public virtual void Crawling()
+        public virtual string Crawling()
         {
-            Console.WriteLine("Reptile is Crowling...");
+            return "Reptile is Crowling...";
         }
     }
 }
